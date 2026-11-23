@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**kavindyadeuni12-collab/kavindyadeuni12-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dewni! 👋
 
-Here are some ideas to get you started:
+### HNDIT Undergraduate | Aspiring Network & Cybersecurity Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Information Technology undergraduate at the Advanced Technological Institute, Kandy, Sri Lanka.
+
+I'm currently developing my skills in networking, cybersecurity, operating systems, and database management.
+
+### 🎯 Career Interests
+- Network Engineering
+- Cybersecurity
+- Network Security
+- Ethical Hacking
+- IT Infrastructure
+- Database Management
+
+### 🌱 Currently Learning
+- Computer Networking
+- IP Addressing & Subnetting
+- Cisco Packet Tracer
+- Linux Fundamentals
+- Cybersecurity Basics
+- SQL
+
+### 🛠️ Tools & Technologies
+- Cisco Packet Tracer
+- Wireshark
+- Linux (Learning)
+- GitHub
+- MySQL
+
+### 📚 Education
+- Higher National Diploma in Information Technology (HNDIT)
+- Advanced Technological Institute, Kandy
+
+### 📌 My Goals
+- Build practical networking skills.
+- Explore network engineering and cybersecurity.
+- Complete practical IT projects.
+- Develop a professional GitHub portfolio.
+- Secure a six-month IT internship in 2027.
+
+### 📫 Connect With Me
+- LinkedIn: Add your LinkedIn profile link here
+- GitHub: https://github.com/YOUR-USERNAME
+
+---
+⭐ Thanks for visiting my profile!
+
