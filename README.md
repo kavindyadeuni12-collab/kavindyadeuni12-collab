@@ -42,8 +42,8 @@ I'm currently developing my skills in networking, cybersecurity, operating syste
 - Secure a six-month IT internship in 2027.
 
 ### 📫 Connect With Me
-- LinkedIn: Add your LinkedIn profile link here
-- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn:https://www.linkedin.com/in/dewni-hettiarachchi-098b89294/
+- GitHub:https://github.com/kavindyadeuni12-collab
 
 ---
 ⭐ Thanks for visiting my profile!
